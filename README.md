@@ -27,3 +27,6 @@ https://visual.ly/blog/data-sources/
 <strong>Credit Card complaint Data</strong>
 
 https://www.consumerfinance.gov/data-research/consumer-complaints/
+
+<strong> Information Visualization Projects </strong>
+https://studentwork.prattsi.org/infovis/archive/projects/
