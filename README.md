@@ -1,4 +1,3 @@
-<H1> Data_Visualization_Ideas </H1>
 Repo to store links or ideas about Data Visualization
 
 <strong>Following link has nice visualizations done using Seattle data:</strong> <br>
