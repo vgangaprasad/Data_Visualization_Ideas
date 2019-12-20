@@ -20,6 +20,7 @@ https://www.ncdc.noaa.gov/cdo-web/
 (We could something with historic data in specific cities to see if the temperature is increasing or remains same
 and whether global warming makes any impact to the cities we analyzed)
 
+<strong>Places to find data</strong>
 
-
+https://visual.ly/blog/data-sources/
 
