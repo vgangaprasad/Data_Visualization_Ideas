@@ -1,19 +1,19 @@
-# Data_Visualization_Ideas
+<H1> Data_Visualization_Ideas </H1>
 Repo to store links or ideas about Data Visualization
 
-Following link has nice visualizations done using Seattle data:
+<strong>Following link has nice visualizations done using Seattle data:</strong>
 
 https://cse442-17s.github.io/Citiviz/final/
 
-Following Link has some nice charts developed using D3 and code for that:
+<strong>Following Link has some nice charts developed using D3 and code for that: </strong>
 
 https://bl.ocks.org/mbostock
 
-Check Page2 and 3 in below link for ideas related to datasets
+<strong>Check Page2 and 3 in below link for ideas related to datasets </strong>
 
 https://www.colorado.edu/ftep/sites/default/files/attached-files/project2.pdf
 
-Climate Data online
+<strong>Climate Data online</strong>
 
 https://www.ncdc.noaa.gov/cdo-web/
 
