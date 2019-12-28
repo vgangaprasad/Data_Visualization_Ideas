@@ -30,3 +30,13 @@ and whether global warming makes any impact to the cities we analyzed)
 <a href="http://www.perceptualedge.com/blog/">Visual Business Intelligence by Stephen Few </a><br>
 <a href="https://statmodeling.stat.columbia.edu/">Statistical Modeling, Causal Inference, and Social Science </a><br>
 <a href="https://informationisbeautiful.net/">Information is Beautiful </a><br>
+
+
+<strong> Interactive Stories </strong>
+
+<a href = "http://www.nytimes.com/newsgraphics/2013/12/30/year-in-interactive-storytelling/index.html">
+  http://www.nytimes.com/newsgraphics/2013/12/30/year-in-interactive-storytelling/index.html </a><br>
+<a href ="https://bost.ocks.org/mike/"> https://bost.ocks.org/mike/ </a><br>
+
+<a href = "https://archive.nytimes.com/www.nytimes.com/interactive/2013/04/25/sports/football/picking-the-best-in-the-nfl-draft.html">
+  N.F.L. Draft: How Good Are Teams at Picking the Best?</a>
