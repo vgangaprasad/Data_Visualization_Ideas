@@ -6,6 +6,11 @@ Repo to store links or ideas about Data Visualization
 <strong>Following Link has some nice charts developed using D3 and code for that: </strong> <br>
 <a href="https://bl.ocks.org/mbostock"> https://bl.ocks.org/mbostock </a> <br>
 
+<strong> Awesome Public Datasets </strong> <br>
+<a href= "https://github.com/awesomedata/awesome-public-datasets"> 
+  https://github.com/awesomedata/awesome-public-datasets
+  </a><br>
+
 <strong>Check Page2 and 3 in below link for ideas related to datasets </strong> <br>
 <a href = "https://www.colorado.edu/ftep/sites/default/files/attached-files/project2.pdf"> https://www.colorado.edu/ftep/sites/default/files/attached-files/project2.pdf </a> <br>
 
