@@ -21,6 +21,8 @@ and whether global warming makes any impact to the cities we analyzed)
 
 <br><strong>Places to find data</strong> <br>
 <a href = "https://visual.ly/blog/data-sources/"> https://visual.ly/blog/data-sources/</a>  <br>
+<a href ="https://registry.opendata.aws/"> https://registry.opendata.aws/ </a> <br>
+<a href ="https://data.ca.gov/"> CA Open Data </a><br>
 
 <strong>Credit Card complaint Data</strong>  <br>
 <a href="https://www.consumerfinance.gov/data-research/consumer-complaints/"> https://www.consumerfinance.gov/data-research/consumer-complaints/ </a> <br>
@@ -44,4 +46,8 @@ and whether global warming makes any impact to the cities we analyzed)
 <a href ="https://bost.ocks.org/mike/"> https://bost.ocks.org/mike/ </a><br>
 
 <a href = "https://archive.nytimes.com/www.nytimes.com/interactive/2013/04/25/sports/football/picking-the-best-in-the-nfl-draft.html">
-  N.F.L. Draft: How Good Are Teams at Picking the Best?</a>
+  N.F.L. Draft: How Good Are Teams at Picking the Best?</a> <br>
+<a href ="https://piktochart.com/blog/storytelling-with-data/">StoryTelling with Data </a><br>
+Amazon customer reviews
+<a href="https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt">Amazon Customer reviews </a> <br>
+<a href="https://s3.amazonaws.com/amazon-reviews-pds/readme.html">Amazon Customer Reviews readme </a><br>
