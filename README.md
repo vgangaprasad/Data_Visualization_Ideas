@@ -35,6 +35,18 @@ and whether global warming makes any impact to the cities we analyzed)
 <strong> Information Visualization Projects </strong> <br>
 <a href="https://studentwork.prattsi.org/infovis/archive/projects/"> https://studentwork.prattsi.org/infovis/archive/projects/ </a> <br>
 
+<strong> American time use survey </strong> <br>
+<a href="https://www.bls.gov/tus/#data">https://www.bls.gov/tus/#data </a>
+
+<strong> how the time parents spend with kids changes as they grow up </strong> <br>
+<a href="https://qz.com/1737182/how-parents-spend-time-with-kids-as-they-grow-up-in-charts/">https://qz.com/1737182/how-parents-spend-time-with-kids-as-they-grow-up-in-charts/</a><br>
+
+<strong> 30 Resources to Find the Data You Need </strong> <br>
+<a href="https://flowingdata.com/2009/10/01/30-resources-to-find-the-data-you-need/">https://flowingdata.com/2009/10/01/30-resources-to-find-the-data-you-need/</a><br>
+
+<strong> Why People visit Emergency room </strong> <br>
+<a href="https://flowingdata.com/2016/02/09/why-people-visit-the-emergency-room/">https://flowingdata.com/2016/02/09/why-people-visit-the-emergency-room/</a><br>
+
 <strong> <u> Visualization Blogs </u> </strong> <br>
 <a href="https://flowingdata.com/"> Flowing Data </a> <br>
 <a href="http://www.visualcomplexity.com/vc/"> Visual Complexity </a> <br>
