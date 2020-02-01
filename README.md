@@ -1,4 +1,43 @@
-Repo to store links or ideas about Data Visualization
+Repo to store links or ideas about ML and Data Visualization
+
+
+<H1> ML Datasets </H1>
+
+<strong> UC Irvine Machine Learning Repository </strong> <br>
+<a href="http://archive.ics.uci.edu/ml/index.php"> http://archive.ics.uci.edu/ml/index.php </a> <br>
+
+<strong>Kaggle datasets</strong> <br>
+<a href="https://www.kaggle.com/datasets"> https://www.kaggle.com/datasets</a> <br>
+
+<strong>Amazon’s AWS datasets</strong> <br>
+<a href="https://registry.opendata.aws/"> https://registry.opendata.aws/</a> <br>
+
+
+<strong>Data Portals</strong> <br>
+<a href="http://dataportals.org/"> http://dataportals.org/</a> <br>
+
+<strong>OpenDataMonitor</strong> <br>
+<a href="http://opendatamonitor.eu/"> http://opendatamonitor.eu/</a> <br>
+
+<strong>Quandl</strong> <br>
+<a href="http://quandl.com/"> http://quandl.com/</a> <br>
+
+
+Other pages listing many popular open data repositories
+
+<strong>Wikipedia’s list of Machine Learning datasets</strong> <br>
+<a href="https://homl.info/9"> https://homl.info/9</a> <br>
+
+<strong>Quora.com</strong> <br>
+<a href="https://homl.info/10"> https://homl.info/10</a> <br>
+
+
+<strong>The datasets subreddit</strong> <br>
+<a href="https://www.reddit.com/r/datasets"> https://www.reddit.com/r/datasets</a> <br>
+
+
+
+<H1> Data Visualization </H1>
 
 <strong>Following link has nice visualizations done using Seattle data:</strong> <br>
 <a href="https://cse442-17s.github.io/Citiviz/final/"> https://cse442-17s.github.io/Citiviz/final/ </a>  <br>
